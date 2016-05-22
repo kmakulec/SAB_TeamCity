@@ -26,7 +26,7 @@ namespace Blog.DAL.Tests
             // act
             var result = repository.GetAllPosts();
             // assert
-            Assert.AreEqual(2, result.Count());
+            Assert.AreEqual(1, result.Count());
         }
 
         [TestMethod]
