@@ -1,0 +1,17 @@
+C:\Users\Admin\Desktop\SAB\Blog\Blog.DAL.Tests\bin\Debug\Blog.DAL.Tests.dll.config
+C:\Users\Admin\Desktop\SAB\Blog\Blog.DAL.Tests\bin\Debug\Blog.DAL.Tests.dll
+C:\Users\Admin\Desktop\SAB\Blog\Blog.DAL.Tests\bin\Debug\Blog.DAL.Tests.pdb
+C:\Users\Admin\Desktop\SAB\Blog\Blog.DAL.Tests\bin\Debug\Blog.DAL.dll
+C:\Users\Admin\Desktop\SAB\Blog\Blog.DAL.Tests\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Desktop\SAB\Blog\Blog.DAL.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Admin\Desktop\SAB\Blog\Blog.DAL.Tests\bin\Debug\TDD.DbTestHelpers.dll
+C:\Users\Admin\Desktop\SAB\Blog\Blog.DAL.Tests\bin\Debug\YamlDotNet.Core.dll
+C:\Users\Admin\Desktop\SAB\Blog\Blog.DAL.Tests\bin\Debug\YamlDotNet.RepresentationModel.dll
+C:\Users\Admin\Desktop\SAB\Blog\Blog.DAL.Tests\bin\Debug\Blog.DAL.pdb
+C:\Users\Admin\Desktop\SAB\Blog\Blog.DAL.Tests\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Desktop\SAB\Blog\Blog.DAL.Tests\bin\Debug\TDD.DbTestHelpers.pdb
+C:\Users\Admin\Desktop\SAB\Blog\Blog.DAL.Tests\bin\Debug\YamlDotNet.Core.pdb
+C:\Users\Admin\Desktop\SAB\Blog\Blog.DAL.Tests\bin\Debug\YamlDotNet.RepresentationModel.pdb
+C:\Users\Admin\Desktop\SAB\Blog\Blog.DAL.Tests\obj\Debug\Blog.DAL.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\SAB\Blog\Blog.DAL.Tests\obj\Debug\Blog.DAL.Tests.dll
+C:\Users\Admin\Desktop\SAB\Blog\Blog.DAL.Tests\obj\Debug\Blog.DAL.Tests.pdb
